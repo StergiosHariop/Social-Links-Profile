@@ -24,4 +24,6 @@ Your users should be able to:
 - Responsiveness
 - Hover States
 
+## The Design
+
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
