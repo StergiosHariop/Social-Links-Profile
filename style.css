@@ -70,8 +70,11 @@ p {
 	flex-direction: column;
 	gap: 16px;
 }
-button {
-	width: 100%;
+.button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
 	background-color: hsl(0, 0%, 20%);
 	color: #fff;
 	border-radius: 8px;
@@ -81,7 +84,7 @@ button {
 	border: none;
 	cursor: pointer;
 }
-button:hover {
+.button:hover {
 	background-color: hsl(75, 94%, 57%);
 	color: hsl(0, 0%, 12%);
 }
